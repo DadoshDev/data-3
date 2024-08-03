@@ -1,2 +1,5 @@
 Initial content 
+<<<<<<< HEAD
 Master branch change
+Feature branch change
+>>>>>>> feature
